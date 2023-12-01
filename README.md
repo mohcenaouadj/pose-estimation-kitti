@@ -9,8 +9,7 @@ to know the color of the 3D points.
 ![3D-to-2D](https://github.com/mohcenaouadj/pose-estimation-kitti/blob/main/Images/Figure_1.png)
 
 2. **Create a 3D mesh from Lidar data points and camera images** : Merge all 50 LIDAR acquisitions, after performing appropriate transformations, into a single point cloud, use the corresponding image data to color the point cloud. Save the results to a standard 3D file.
-|![lidar-to-3d](https://github.com/mohcenaouadj/pose-estimation-kitti/blob/main/Images/street_1.png)|![lidar-to-3d](https://github.com/mohcenaouadj/pose-estimation-kitti/blob/main/Images/street_2.png)|
-|----|----|
-|![lidar-to-3d](https://github.com/mohcenaouadj/pose-estimation-kitti/blob/main/Images/street_3.png)|![lidar-to-3d](https://github.com/mohcenaouadj/pose-estimation-kitti/blob/main/Images/street_4.png)
-4. 
-   
+![lidar-to-3d](https://github.com/mohcenaouadj/pose-estimation-kitti/blob/main/Images/street_2.png)
+
+3. **Visual odometry : Estimate the pose of the vihecule** : Our objective is to calculate the trajectory traveled by the vehicle using a visual odometry approach. We will use the stereo image sequence provided by Kitti to calculate odometry. Next, we will compare the calculated trajectory with the data provided by the IMU.
+![odometry](https://github.com/mohcenaouadj/pose-estimation-kitti/blob/main/Images/Figure_3.png) 
