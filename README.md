@@ -12,4 +12,5 @@ to know the color of the 3D points.
 ![lidar-to-3d](https://github.com/mohcenaouadj/pose-estimation-kitti/blob/main/Images/street_2.png)
 
 3. **Visual odometry : Estimate the pose of the vihecule** : Our objective is to calculate the trajectory traveled by the vehicle using a visual odometry approach. We will use the stereo image sequence provided by Kitti to calculate odometry. Next, we will compare the calculated trajectory with the data provided by the IMU.
-![odometry](https://github.com/mohcenaouadj/pose-estimation-kitti/blob/main/Images/Figure_3.png) 
+![odometry](https://github.com/mohcenaouadj/pose-estimation-kitti/blob/main/Images/Figure_3.png)
+
