@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cdb2db4-56cd-47fb-8da1-229a665b19cb" name="Changes" comment="" />
+    <list default="true" id="7cdb2db4-56cd-47fb-8da1-229a665b19cb" name="Changes" comment="commit photogrammetry project">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScreenCapture_2023-12-01-15-53-53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScreenCapture_2023-12-01-15-54-19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScreenCapture_2023-12-01-15-54-35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScreenCapture_2023-12-01-15-55-19.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,35 +38,48 @@
       </map>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2Wf9R4Z8WceyYE0PSQ3GIOKUzL5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IMOVI/Photogrammétrie/TP 04&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;PyScientificConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/IMOVI/Photogrammétrie/TP 04",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "PyScientificConfigurable",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Python&quot;,
-      &quot;Cython&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python",
+      "Cython"
     ]
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IMOVI\Photogrammétrie\TP 04" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="TP 04" />
@@ -125,12 +148,37 @@
       <workItem from="1699733263990" duration="5912000" />
       <workItem from="1699787057697" duration="9366000" />
       <workItem from="1701441398840" duration="1494000" />
-      <workItem from="1701443404006" duration="467000" />
+      <workItem from="1701443404006" duration="978000" />
+      <workItem from="1701444696376" duration="479000" />
     </task>
+    <task id="LOCAL-00001" summary="commit photogrammetry project">
+      <option name="closed" value="true" />
+      <created>1701444015630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701444015630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit photogrammetry project" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit photogrammetry project" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TP_04$main.coverage" NAME="main Coverage Results" MODIFIED="1697720475168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
