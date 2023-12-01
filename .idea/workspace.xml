@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cdb2db4-56cd-47fb-8da1-229a665b19cb" name="Changes" comment="commit photogrammetry project">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScreenCapture_2023-12-01-15-53-53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScreenCapture_2023-12-01-15-54-19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScreenCapture_2023-12-01-15-54-35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScreenCapture_2023-12-01-15-55-19.png" beforeDir="false" />
-    </list>
+    <list default="true" id="7cdb2db4-56cd-47fb-8da1-229a665b19cb" name="Changes" comment="commit photogrammetry project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +139,7 @@
       <workItem from="1699787057697" duration="9366000" />
       <workItem from="1701441398840" duration="1494000" />
       <workItem from="1701443404006" duration="978000" />
-      <workItem from="1701444696376" duration="479000" />
+      <workItem from="1701444696376" duration="781000" />
     </task>
     <task id="LOCAL-00001" summary="commit photogrammetry project">
       <option name="closed" value="true" />
